@@ -1,0 +1,11 @@
+# OSX generated files
+.DS_Store
+
+# Any output image files
+/tensorflow-tutorial/image_output
+
+# Training Checkpoints
+/training_checkpoints
+
+# IDE files
+.idea
